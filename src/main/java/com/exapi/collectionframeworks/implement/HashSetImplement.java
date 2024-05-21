@@ -14,6 +14,6 @@ public class HashSetImplement {
 
         System.out.println("Total cities "+cities.size());          // 4
         System.out.println(cities);             //[Tangail, Mymensing, Comilla, Dhaka]
-
+//
     }
 }
