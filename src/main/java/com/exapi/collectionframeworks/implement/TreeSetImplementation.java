@@ -8,6 +8,7 @@ public class TreeSetImplementation {
     public static void main(String[] args) {
         /*
         Elements always sorted
+        no get(int index) method here to get by index
          */
     Set<String> cities=new TreeSet<>();
         cities.add("Dhaka");
