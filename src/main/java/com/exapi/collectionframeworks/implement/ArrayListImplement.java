@@ -5,6 +5,7 @@ import java.util.List;
 
 public class ArrayListImplement {
     public static void main(String[] args) {
+
         List<String> emperors=new ArrayList<>();
         emperors.add("John");
         emperors.add("Jane");
